@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.28)  5 SEP 2024 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.28)  6 SEP 2024 00:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,149 +439,168 @@ e.sfd}) [1
 
  <./picture/s1.png>] [2{f:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-
 super-ts1.enc}] [3]
-<picture/1.png, id=211, 389.95688pt x 80.3pt>
+<picture/q1.png, id=175, 444.66125pt x 38.1425pt>
+File: picture/q1.png Graphic file (type png)
+<use picture/q1.png>
+Package pdftex.def Info: picture/q1.png  used on input line 101.
+(pdftex.def)             Requested size: 455.24408pt x 39.05032pt.
+<picture/q2.png, id=176, 325.215pt x 85.82062pt>
+File: picture/q2.png Graphic file (type png)
+<use picture/q2.png>
+Package pdftex.def Info: picture/q2.png  used on input line 103.
+(pdftex.def)             Requested size: 455.24408pt x 120.14278pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
+[][]
+ []
+
+<picture/1.png, id=177, 1094.58937pt x 628.3475pt>
 File: picture/1.png Graphic file (type png)
 <use picture/1.png>
-Package pdftex.def Info: picture/1.png  used on input line 118.
-(pdftex.def)             Requested size: 455.24408pt x 93.74721pt.
-<picture/2.png, id=213, 425.08812pt x 123.46124pt>
+Package pdftex.def Info: picture/1.png  used on input line 116.
+(pdftex.def)             Requested size: 455.24408pt x 261.33461pt.
+[4 <./picture/q1.png> <./picture/q2.png>]
+<picture/2.png, id=209, 211.28937pt x 23.08624pt>
 File: picture/2.png Graphic file (type png)
 <use picture/2.png>
-Package pdftex.def Info: picture/2.png  used on input line 123.
-(pdftex.def)             Requested size: 455.24408pt x 132.22653pt.
-<picture/3.png, id=214, 385.94188pt x 171.64125pt>
+Package pdftex.def Info: picture/2.png  used on input line 121.
+(pdftex.def)             Requested size: 455.24408pt x 49.74326pt.
+<picture/3.png, id=210, 273.02pt x 157.08687pt>
 File: picture/3.png Graphic file (type png)
 <use picture/3.png>
-Package pdftex.def Info: picture/3.png  used on input line 128.
-(pdftex.def)             Requested size: 455.24408pt x 202.46156pt.
- [4 <./picture/1.png> <./picture/2.png>]
-<picture/4.png, id=228, 354.32375pt x 218.31563pt>
+Package pdftex.def Info: picture/3.png  used on input line 126.
+(pdftex.def)             Requested size: 455.24408pt x 261.9506pt.
+ [5 <./picture/1.png> <./picture/2.png>]
+<picture/4.png, id=225, 671.50874pt x 183.68625pt>
 File: picture/4.png Graphic file (type png)
 <use picture/4.png>
-Package pdftex.def Info: picture/4.png  used on input line 133.
-(pdftex.def)             Requested size: 455.24408pt x 280.50235pt.
-<picture/5.png, id=229, 352.31625pt x 99.87312pt>
+Package pdftex.def Info: picture/4.png  used on input line 131.
+(pdftex.def)             Requested size: 455.24408pt x 124.5294pt.
+<picture/5.png, id=226, 303.1325pt x 134.00063pt>
 File: picture/5.png Graphic file (type png)
 <use picture/5.png>
-Package pdftex.def Info: picture/5.png  used on input line 138.
-(pdftex.def)             Requested size: 455.24408pt x 129.05022pt.
- [5 <./picture/3.png> <./picture/4.png>]
-<picture/6.png, id=235, 328.72812pt x 75.78313pt>
+Package pdftex.def Info: picture/5.png  used on input line 136.
+(pdftex.def)             Requested size: 455.24408pt x 201.24577pt.
+ [6 <./picture/3.png> <./picture/4.png>]
+<picture/6.png, id=237, 313.67188pt x 49.68562pt>
 File: picture/6.png Graphic file (type png)
 <use picture/6.png>
-Package pdftex.def Info: picture/6.png  used on input line 143.
-(pdftex.def)             Requested size: 455.24408pt x 104.952pt.
-<picture/7.png, id=236, 324.21124pt x 113.42375pt>
+Package pdftex.def Info: picture/6.png  used on input line 141.
+(pdftex.def)             Requested size: 455.24408pt x 72.11357pt.
+<picture/7.png, id=239, 254.45062pt x 195.73125pt>
 File: picture/7.png Graphic file (type png)
 <use picture/7.png>
-Package pdftex.def Info: picture/7.png  used on input line 148.
-(pdftex.def)             Requested size: 455.24408pt x 159.27501pt.
-<picture/8.png, id=237, 331.73938pt x 131.49126pt>
+Package pdftex.def Info: picture/7.png  used on input line 146.
+(pdftex.def)             Requested size: 455.24408pt x 350.20442pt.
+ [7 <./picture/5.png> <./picture/6.png>]
+<picture/8.png, id=251, 367.3725pt x 62.2325pt>
 File: picture/8.png Graphic file (type png)
 <use picture/8.png>
-Package pdftex.def Info: picture/8.png  used on input line 153.
-(pdftex.def)             Requested size: 455.24408pt x 180.45491pt.
- [6 <./picture/5.png> <./picture/6.png> <./picture/7.png>]
-<picture/9.png, id=245, 306.14375pt x 42.1575pt>
+Package pdftex.def Info: picture/8.png  used on input line 151.
+(pdftex.def)             Requested size: 455.24408pt x 77.12286pt.
+<picture/9.png, id=252, 321.2pt x 37.64063pt>
 File: picture/9.png Graphic file (type png)
 <use picture/9.png>
-Package pdftex.def Info: picture/9.png  used on input line 158.
-(pdftex.def)             Requested size: 455.24408pt x 62.6925pt.
-<picture/10.png, id=246, 343.78438pt x 33.62563pt>
+Package pdftex.def Info: picture/9.png  used on input line 156.
+(pdftex.def)             Requested size: 455.24408pt x 53.35068pt.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+ [8 <./picture/7.png> <./picture/8.png> <./picture/9.png>]
+<picture/10.png, id=261, 355.3275pt x 27.60312pt>
 File: picture/10.png Graphic file (type png)
 <use picture/10.png>
-Package pdftex.def Info: picture/10.png  used on input line 163.
-(pdftex.def)             Requested size: 455.24408pt x 44.52754pt.
-<picture/11.png, id=247, 355.82938pt x 113.42375pt>
+Package pdftex.def Info: picture/10.png  used on input line 161.
+(pdftex.def)             Requested size: 455.24408pt x 35.36597pt.
+<picture/11.png, id=262, 394.97563pt x 239.89626pt>
 File: picture/11.png Graphic file (type png)
 <use picture/11.png>
-Package pdftex.def Info: picture/11.png  used on input line 168.
-(pdftex.def)             Requested size: 455.24408pt x 145.11784pt.
- [7 <./picture/8.png> <./picture/9.png> <./picture/10.png> <./picture/11.png>]
-<picture/12.png, id=258, 388.45125pt x 158.09062pt>
+Package pdftex.def Info: picture/11.png  used on input line 166.
+(pdftex.def)             Requested size: 455.24408pt x 276.50449pt.
+<picture/12.png, id=263, 485.31313pt x 293.59688pt>
 File: picture/12.png Graphic file (type png)
 <use picture/12.png>
-Package pdftex.def Info: picture/12.png  used on input line 173.
-(pdftex.def)             Requested size: 455.24408pt x 185.27885pt.
-<picture/13.png, id=259, 784.43062pt x 167.62625pt>
+Package pdftex.def Info: picture/12.png  used on input line 171.
+(pdftex.def)             Requested size: 455.24408pt x 275.4211pt.
+ [9 <./picture/10.png> <./picture/11.png>]
+<picture/13.png, id=272, 408.52625pt x 241.40187pt>
 File: picture/13.png Graphic file (type png)
 <use picture/13.png>
-Package pdftex.def Info: picture/13.png  used on input line 178.
-(pdftex.def)             Requested size: 455.24408pt x 97.2821pt.
-<picture/14.png, id=261, 962.59625pt x 328.72812pt>
+Package pdftex.def Info: picture/13.png  used on input line 176.
+(pdftex.def)             Requested size: 455.24408pt x 269.02377pt.
+ [10 <./picture/12.png> <./picture/13.png>]
+<picture/14.png, id=278, 485.31313pt x 318.18875pt>
 File: picture/14.png Graphic file (type png)
 <use picture/14.png>
-Package pdftex.def Info: picture/14.png  used on input line 183.
-(pdftex.def)             Requested size: 455.24408pt x 155.4653pt.
- [8 <./picture/12.png> <./picture/13.png> <./picture/14.png>]
-<picture/15.png, id=271, 972.63374pt x 464.23438pt>
+Package pdftex.def Info: picture/14.png  used on input line 181.
+(pdftex.def)             Requested size: 455.24408pt x 298.49055pt.
+<picture/15.png, id=279, 459.21562pt x 86.3225pt>
 File: picture/15.png Graphic file (type png)
 <use picture/15.png>
-Package pdftex.def Info: picture/15.png  used on input line 188.
-(pdftex.def)             Requested size: 455.24408pt x 217.28348pt.
-<picture/16.png, id=272, 962.09438pt x 486.81876pt>
+Package pdftex.def Info: picture/15.png  used on input line 186.
+(pdftex.def)             Requested size: 455.24408pt x 85.58069pt.
+<picture/16.png, id=280, 478.78876pt x 317.68687pt>
 File: picture/16.png Graphic file (type png)
 <use picture/16.png>
-Package pdftex.def Info: picture/16.png  used on input line 193.
-(pdftex.def)             Requested size: 455.24408pt x 230.35735pt.
-<picture/17.png, id=273, 810.52812pt x 331.2375pt>
+Package pdftex.def Info: picture/16.png  used on input line 191.
+(pdftex.def)             Requested size: 455.24408pt x 302.06741pt.
+ [11 <./picture/14.png> <./picture/15.png>]
+<picture/17.png, id=287, 480.29437pt x 316.18124pt>
 File: picture/17.png Graphic file (type png)
 <use picture/17.png>
-Package pdftex.def Info: picture/17.png  used on input line 198.
-(pdftex.def)             Requested size: 455.24408pt x 186.0477pt.
- [9 <./picture/15.png> <./picture/16.png>]
-<picture/18.png, id=282, 268.50313pt x 376.90813pt>
+Package pdftex.def Info: picture/17.png  used on input line 196.
+(pdftex.def)             Requested size: 455.24408pt x 299.69504pt.
+ [12 <./picture/16.png> <./picture/17.png>]
+<picture/18.png, id=293, 478.78876pt x 319.1925pt>
 File: picture/18.png Graphic file (type png)
 <use picture/18.png>
-Package pdftex.def Info: picture/18.png  used on input line 203.
-(pdftex.def)             Requested size: 341.43306pt x 479.28336pt.
- [10 <./picture/17.png>]
-<picture/19.png, id=288, 953.06062pt x 483.8075pt>
-File: picture/19.png Graphic file (type png)
-<use picture/19.png>
-Package pdftex.def Info: picture/19.png  used on input line 208.
-(pdftex.def)             Requested size: 455.24408pt x 231.10284pt.
- [11 <./picture/18.png>]
-<picture/20.png, id=295, 882.29625pt x 193.22188pt>
-File: picture/20.png Graphic file (type png)
-<use picture/20.png>
-Package pdftex.def Info: picture/20.png  used on input line 213.
-(pdftex.def)             Requested size: 455.24408pt x 99.69759pt.
+Package pdftex.def Info: picture/18.png  used on input line 201.
+(pdftex.def)             Requested size: 341.43306pt x 227.62183pt.
+<picture/191.png, id=294, 472.76625pt x 316.68312pt>
+File: picture/191.png Graphic file (type png)
+<use picture/191.png>
+Package pdftex.def Info: picture/191.png  used on input line 206.
+(pdftex.def)             Requested size: 455.24408pt x 304.9546pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--219
+[13 <./picture/18.png> <./picture/191.png>]
+<picture/201.png, id=302, 451.6875pt x 313.67188pt>
+File: picture/201.png Graphic file (type png)
+<use picture/201.png>
+Package pdftex.def Info: picture/201.png  used on input line 211.
+(pdftex.def)             Requested size: 455.24408pt x 316.15993pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
 
  []
 
-[12 <./picture/19.png> <./picture/20.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 220.
+(Font)              <10.53937> on input line 218.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 220.
+(Font)              <7> on input line 218.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 220.
- [13] (./lab2.aux)
+(Font)              <5> on input line 218.
+[14 <./picture/201.png>] (./lab2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7891 strings out of 476023
- 152307 string characters out of 5791734
- 1947190 words of memory out of 5000000
- 29523 multiletter control sequences out of 15000+600000
- 631709 words of font info for 303 fonts, out of 8000000 for 9000
+ 7806 strings out of 476023
+ 150734 string characters out of 5791734
+ 1943190 words of memory out of 5000000
+ 29455 multiletter control sequences out of 15000+600000
+ 628264 words of font info for 290 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  80i,6n,83p,1174b,406s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
 imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
 /Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Wind
-ows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc>
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
+.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+hei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
 onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
 indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
 tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
@@ -590,17 +609,17 @@ s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
 :/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
 n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
-dows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
-msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
-Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
-Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
-ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
 /simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
-ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><
-c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
-un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Wi
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fo
+nts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wi
 ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
 f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
 imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
@@ -619,8 +638,8 @@ s/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c
 :/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhe
 i.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
 ts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Win
-dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
-><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
+dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
 msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
 Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
 Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
@@ -628,19 +647,19 @@ ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
 /simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
 ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
 c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
-un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><f:/texlive/2024/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbsy10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><f
-:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><f:/texlive
-/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><f:/texlive/2024/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1000.pfb>
-Output written on lab2.pdf (13 pages, 1538677 bytes).
+un.ttc><f:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><
+f:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><f:/texliv
+e/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><f:/texlive/2024/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><f:/texlive/2024/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><f:/texlive/2024/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsl10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmtt10.pfb><f:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.p
+fb><f:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on lab2.pdf (14 pages, 1464264 bytes).
 PDF statistics:
- 826 PDF objects out of 1000 (max. 8388607)
- 519 compressed objects within 6 object streams
+ 823 PDF objects out of 1000 (max. 8388607)
+ 515 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 402 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
